@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/ClionRep/StudentShedule/Headers/Auxiliary.h
+
+E:/ClionRep/StudentShedule/Headers/CLine.h
+stdio.h
+-
+
+E:/ClionRep/StudentShedule/Headers/DateTime.h
+
+E:/ClionRep/StudentShedule/Headers/Saves.h
+stdio.h
+-
+SubjectLesson.h
+E:/ClionRep/StudentShedule/Headers/SubjectLesson.h
+
+E:/ClionRep/StudentShedule/Headers/SubjectLesson.h
+DateTime.h
+E:/ClionRep/StudentShedule/Headers/DateTime.h
+
+E:/ClionRep/StudentShedule/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Headers/DateTime.h
+E:/ClionRep/StudentShedule/Headers/DateTime.h
+Headers/SubjectLesson.h
+E:/ClionRep/StudentShedule/Headers/SubjectLesson.h
+Headers/Auxiliary.h
+E:/ClionRep/StudentShedule/Headers/Auxiliary.h
+Headers/Saves.h
+E:/ClionRep/StudentShedule/Headers/Saves.h
+time.h
+-
+Headers/CLine.h
+E:/ClionRep/StudentShedule/Headers/CLine.h
+
